@@ -6,6 +6,7 @@ import com.pinewilt.entity.DetectionRecord;
 import com.pinewilt.mapper.CtImageMapper;
 import com.pinewilt.mapper.DetectionRecordMapper;
 import com.pinewilt.service.CtImageService;
+import com.pinewilt.util.PythonServiceUtil.DetectionResult;
 import com.pinewilt.util.PythonServiceUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

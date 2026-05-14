@@ -2,6 +2,7 @@ package com.pinewilt.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.pinewilt.entity.CtImage;
+import com.pinewilt.util.PythonServiceUtil.DetectionResult;
 import org.springframework.web.multipart.MultipartFile;
 
 /**
